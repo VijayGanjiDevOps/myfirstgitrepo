@@ -1,2 +1,0 @@
-# myfirstgitrepo
-Learning git
